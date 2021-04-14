@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.headLink:link {
+    color: white;
+}
+
+.headLink:visited {
+    color: white;
+}
+
+.headLink {
+    color: white;
+}
+
+i {
+    color: red
+}
+
+header {
+    background-color: black;
+    height: 5vh;
+    padding-left: 20px;
+    padding-top: 5px
+}
+.lol {
+    padding-left: 5vh;
+    padding-right: 25vh;
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:700px;
+    text-align:center
+}
